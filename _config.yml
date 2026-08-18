@@ -1,0 +1,19 @@
+# GitHub Pages config for the UrgeKeeper public pages.
+#
+# Deliberately no `theme:` — the layout in _layouts/default.html is self-contained,
+# so the pages carry the app's own warm palette instead of a generic GitHub template.
+# Nothing here needs a plugin, so it works on plain GitHub Pages.
+
+title: UrgeKeeper
+description: A calm place to notice your own patterns. Your journal stays on your phone.
+lang: en
+
+# Every page gets the shared layout without needing to repeat it in front matter.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
