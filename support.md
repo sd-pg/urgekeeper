@@ -8,7 +8,7 @@ title: Support
 
 # Support — UrgeKeeper
 
-Write to **support@example.com** — we usually reply within a couple of days.
+Write to **aaertem040@gmail.com** — we usually reply within a couple of days.
 
 If you're reporting a problem, it helps to include your device model, iOS version and the app version (shown on the app's App Store page). No need to attach a screenshot — it may contain your journal.
 
@@ -69,7 +69,7 @@ If you are struggling right now and thinking about harming yourself, please reac
 
 # Поддержка — UrgeKeeper
 
-Напишите на **support@example.com** — отвечаем обычно в течение пары дней.
+Напишите на **aaertem040@gmail.com** — отвечаем обычно в течение пары дней.
 
 Если пишете о проблеме, помогут: модель устройства, версия iOS и версия приложения (видна в App Store на странице приложения). Скриншот прикладывать не нужно — на нём может быть ваш дневник.
 
