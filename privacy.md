@@ -105,7 +105,7 @@ If this policy changes, we will update the date at the top of the page. Material
 
 ## Contact
 
-**support@example.com**
+**aaertem040@gmail.com**
 
 ---
 ---
