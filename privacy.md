@@ -12,7 +12,7 @@ title: Privacy Policy
 
 UrgeKeeper is an app for noticing your own patterns. Everything you write in it stays on your device. This page describes exactly what the app does, without legal fog.
 
-Developer: Artem Ryaboshapko. Contact: **support@example.com**
+Developer: Artem Ryaboshapko. Contact: **aaertem040@gmail.com**
 
 ---
 
@@ -89,7 +89,7 @@ To stop analytics entirely, delete the app. If you want already-sent anonymous e
 
 We hold no data that can identify you, so most requests (access, correction, portability) resolve to the fact that all of your data is already in your hands, on your device.
 
-If you have a question about your rights under the GDPR or other applicable law, write to **support@example.com** and we will answer.
+If you have a question about your rights under the GDPR or other applicable law, write to **aaertem040@gmail.com** and we will answer.
 
 ## Children
 
@@ -120,7 +120,7 @@ If this policy changes, we will update the date at the top of the page. Material
 
 UrgeKeeper — приложение для наблюдения за собой. Всё, что вы в нём пишете, остаётся на вашем устройстве. Эта страница объясняет ровно то, что делает приложение, без юридического тумана.
 
-Разработчик: Artem Ryaboshapko. Связь: **support@example.com**
+Разработчик: Artem Ryaboshapko. Связь: **aaertem040@gmail.com**
 
 ---
 
@@ -197,7 +197,7 @@ UrgeKeeper — приложение для наблюдения за собой.
 
 Мы не храним данных, по которым вас можно опознать, поэтому большая часть запросов (доступ, исправление, перенос) сводится к тому, что все ваши данные уже находятся у вас в руках, на вашем устройстве.
 
-Если у вас есть вопрос о ваших правах по GDPR или другому применимому закону — напишите на **support@example.com**, и мы ответим.
+Если у вас есть вопрос о ваших правах по GDPR или другому применимому закону — напишите на **aaertem040@gmail.com**, и мы ответим.
 
 ## Дети
 
@@ -213,4 +213,4 @@ UrgeKeeper — приложение для наблюдения за собой.
 
 ## Связь
 
-**support@example.com**
+**aaertem040@gmail.com**
